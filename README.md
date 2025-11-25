@@ -27,7 +27,7 @@ Evaluate whether a large-scale hydrogen-based steel plant can achieve:
 GitHub does **not** display Excel files in the browser.  
 To view the full model:
 
-> Click **RSM Impact Investing.xlsx → Download**
+> Click in the above menu box → **RSM Impact Investing.xlsx → Download**
 ---
 
 ## 🧮 Key Financial Highlights
